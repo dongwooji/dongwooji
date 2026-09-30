@@ -7,7 +7,7 @@ markdown
 
 <img src="./dongguk_logo.png" alt="Dongguk University" width="140"/>
 
-<br/><br/>
+<br/>
 
 <b>B.S. in Computer Science & AI</b><br/>
 Dongguk University
@@ -20,6 +20,7 @@ Dongguk University
 <a href="mailto:willi1125@gmail.com">
   <img src="https://img.shields.io/badge/Email-willi1125%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
 
 </div>
 
