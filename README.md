@@ -11,8 +11,8 @@ markdown
 
 <br/>
 
-<a href="https://github.com/dongwooji">
-  <img src="https://img.shields.io/badge/GitHub-dongwooji-181717?style=flat-square&logo=github&logoColor=white"/>
+<a href="mailto:willi1125@gmail.com">
+  <img src="https://img.shields.io/badge/Email-willi1125%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
