@@ -5,7 +5,7 @@ markdown
 
 <div align="center">
 
-<img src="./동국대마크.jpg" alt="Dongguk University" width="90"/>
+<img src="./dongguk_logo.png" alt="Dongguk University" width="140"/>
 
 <br/><br/>
 
@@ -23,7 +23,6 @@ Dongguk University
 </a>
 
 </div>
-
 
 
 
