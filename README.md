@@ -81,7 +81,7 @@ LLM/RAG 시스템, 멀티모달 의료 AI, 대규모 바이오 데이터 분석 
 
 | 프로젝트 | 설명 | 주요 기술 |
 | :--- | :--- | :--- |
-| **[Agentic RAG 기반 학습 지원 시스템](https://github.com/dongwooji/agentic-rag-training)** | Dense, BM25, Hybrid Retrieval을 비교·평가하는 Agentic RAG 시스템을 구축했습니다. 검색 성능 평가 체계를 설계하고 Training Log, Metric, Literature Tool 등 도메인별 Tool Layer를 구현했습니다. | `Python` `RAG` `BM25` `Dense Retrieval` `LangGraph` |
+| **[Agentic RAG 시스템 구축](https://github.com/dongwooji/agentic-rag-training)** | Dense, BM25, Hybrid Retrieval을 비교·평가하는 Agentic RAG 시스템을 구축했습니다. 검색 성능 평가 체계를 설계하고 Training Log, Metric, Literature Tool 등 도메인별 Tool Layer를 구현했습니다. | `Python` `RAG` `BM25` `Dense Retrieval` `LangGraph` |
 | **[PPG 기반 부정맥 탐지](https://github.com/dongwooji/ppg-arrhythmia-detection)** | PPG 신호와 임상 정보를 활용한 멀티모달 부정맥 탐지 시스템을 개발했습니다. CLIP 기반 사전학습과 Multi-task U-Net을 적용해 분류 및 구간 탐지 성능을 개선했습니다. | `Python` `PyTorch` `Deep Learning` `LLM` |
 | **[Single-cell RNA-seq 차등 풍부도 분석](https://github.com/dongwooji/singlecell-milo-da)** | 대장암 single-cell RNA-seq 데이터에서 Milo 기반 Differential Abundance 분석을 통해 MSI/MSS에 따른 세포 집단 차이를 분석하는 파이프라인을 구축했습니다. | `Python` `Scanpy` `Milo` `Docker` |
 | **[과천시 버스 노선 최적화](https://github.com/dongwooji/bus-route-optimization-gwacheon)** | 정류장·POI·교통 링크/노드 데이터를 통합하고, A* 경로 탐색과 유전 알고리즘을 활용해 후보 버스 노선을 생성·최적화했습니다. K-means로 정류장 특성을 분류하고 Kakao Maps API를 통해 최종 노선을 시각화했습니다. | `Python` `Genetic Algorithm` `A*` `NetworkX` `Kakao Maps API` |
