@@ -52,7 +52,7 @@ Dongguk University
 - Segmentation Dice Score **0.5815 → 0.7167** 향상
 - 탐지 결과를 바탕으로 설명 가능한 리포트를 생성하기 위한 **LLM 기반 RAG 파이프라인** 구현
 
-➡️ **[논문 보기](https://www.mdpi.com/1424-8220/26/8/2316)**
+➡️ **[Published Paper · Sensors (MDPI)](https://www.mdpi.com/1424-8220/26/8/2316)**
 
 ---
 
