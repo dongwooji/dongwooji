@@ -7,7 +7,7 @@ markdown
 
 ### Computer Science & Artificial Intelligence
 
-**AI Engineer · Agentic RAG · LLM · Healthcare AI**
+**AI Engineer · Agentic RAG · LLM · Healthcare AI · Data Analysis**
 
 <br/>
 
@@ -17,22 +17,8 @@ markdown
 
 </div>
 
----
 
-## 👋 소개
 
-데이터와 AI 모델을 실제 문제 해결로 연결하는 **AI Engineer**를 지향합니다.
-
-LLM/RAG 시스템, 멀티모달 의료 AI, 대규모 바이오 데이터 분석 프로젝트를 수행하며 **문제 정의부터 데이터 전처리, 모델 구현, 검색 시스템 구축, 성능 평가, 파이프라인 설계까지** 경험했습니다.
-
-새로운 기술을 단순히 적용하는 데 그치지 않고, **비교 실험과 정량적 평가를 통해 성능을 검증하고 재현 가능한 시스템으로 구현하는 과정**을 중요하게 생각합니다.
-
-- 🎓 동국대학교 **컴퓨터·AI학부**
-- 🤖 **LLM, RAG, AI Systems, Applied AI** 중심으로 프로젝트 수행
-- 🛠 데이터 처리부터 모델 개발·평가·시스템 구현까지 End-to-End 경험
-- 📄 국제학술지 **Sensors (MDPI)** 논문 게재
-
----
 
 ## 🔬 연구 및 기술 관심 분야
 
