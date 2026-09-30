@@ -5,17 +5,22 @@ markdown
 
 <div align="center">
 
-### Computer Science & Artificial Intelligence
+<img src="./동국대마크.jpg" alt="Dongguk University" width="90"/>
+
+<br/><br/>
+
+<b>B.S. in Computer Science & AI</b><br/>
+Dongguk University
+
+<br/><br/>
 
 **AI Engineer · Agentic RAG · LLM · Healthcare AI · Data Analysis**
 
-<br/>
+<br/><br/>
 
 <a href="mailto:willi1125@gmail.com">
   <img src="https://img.shields.io/badge/Email-willi1125%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
-
 
 </div>
 
