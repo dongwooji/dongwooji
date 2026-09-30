@@ -1,4 +1,4 @@
-```markdown
+markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:7C3AED&height=240&section=header&text=DONGWOO%20JI&fontSize=52&fontColor=ffffff&fontAlignY=38" width="100%"/>
 </p>
@@ -124,4 +124,3 @@ LLM/RAG 시스템, 멀티모달 의료 AI, 대규모 바이오 데이터 분석 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
-```
